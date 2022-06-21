@@ -25,7 +25,9 @@ The microbit is an incredibly versitile device that allows you to convert the so
 
 ## 7. Hackathon - Acessible Education
 For this project, we developed a website in effort to give easy access to anyone with internet completely for free. In this group project, I learned all the essentials of developing a program in collaboration with others, and how to stay organized so multiple people could work on it at once. Using github was essential as it was the repository where we stored our code for the website, and it also let us keep track of progress for the website. By using the project board, we could clearly see what needed to be worked on, what was completed, and monitor everything about out project. The biggest takeaway from this task was how to work together on the same program and use github to stay organized. There is no doubt that I will work on programs with others and so all these skills will be crucial.
+
 ## 8. Live Coding Session
+The live coding project gave us an oppertunity to demonstrate a high level of understanding of computer programing, because we had to explain it to the
 ## 9. Codecademy: Learn Game Development with Phaser.js
 ## 10. Game Jam
 
