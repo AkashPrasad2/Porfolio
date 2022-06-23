@@ -65,35 +65,3 @@ View Certificate [here](https://i.imgur.com/RR0YMJF.png)
 Expanding on what we learned from the phaser.js course in Codecademy, we added to the bug invaders game to make it more unique and fun. I learned a lot of things about developing a web browser game from this project, and I learned how to use the fundamentals that we learned from codecademy to make something more interseting. My favorite part of the project was that it let you be creative with your coding, and this was very valuable because in the future, I am certain that there will be programs that will need to made with limited instructions provided.  
 
 [Link for modified game](https://github.com/willmlee/AYJ-Game-Jam)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkashPrasad2/Porfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
