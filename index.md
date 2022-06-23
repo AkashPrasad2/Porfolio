@@ -54,6 +54,9 @@ The live coding project gave us an oppertunity to demonstrate a high level of un
 ## 9. Codecademy: Learn Game Development with Phaser.js
 Learning to use Phaser.js was a huge step in my coding journey as I leanrned how to do countless more things with programing, mostly involving game development. It became so much easier and efficent to make games with Phaser.js, and while it is important to know other languges too, phaser had a multitude of built in functions that made coding so much easier and practical. Being able to code games at a much faster rate was the biggest takeaway from this course, and in the future I will use Phaser.js whenever I have to make a webpage game.
 
+
+View Certificate [here](https://i.imgur.com/RR0YMJF.png)
+
 ## 10. Game Jam
 Expanding on what we learned from the phaser.js course in Codecademy, we added to the bug invaders game to make it more unique and fun. I learned a lot of things about developing a web browser game from this project, and I learned how to use the fundamentals that we learned from codecademy to make something more interseting. My favorite part of the project was that it let you be creative with your coding, and this was very valuable because in the future, I am certain that there will be programs that will need to made with limited instructions provided.  
 
