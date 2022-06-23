@@ -33,6 +33,8 @@ As amazing as programing videogames is, there are a multidue of other applicatio
 ## 4. Codecademy: Learn HTML and CSS
 Similarly to the Khan Academy HTML course, I learned a lot about the basics of HTML, web develpoment, and correct referencing. While a large portion of it was a review, Codecademy provided a handful of new concepts and tools to enhance websites by making them more practical and aesthetic, like dropdown menus and more. To me, the most useful part of this course was the semantic HTML section, where I learned how to make code more organized and tidy. This was really helpful when making projects in collaboration with others, since organization was very important in order to understand the code of other people. Moving forward, I will continue to use the basics of HTML that i learned from this course and I will be able to make sure that the code is clear and organized. 
 
+View Certificate [here](https://i.imgur.com/ATCQBdW.png)
+
 ## 5. Algorithms with Cubing
 Throughout the year, cubing played a huge role in helping to keep me focused while also changing the way that I approached problems within programs. By forming links between the algorithmic nature of a cube to the algorithms involved in a computer, it became easier to grasp computer science concepts and develop my own programs. This year, I have managed to solve a 3x3, 2x2 and pyramix, by studying the algorithms behind them, and I discovered that despite their differences, there are still many similarites. Similarly, there are similarities between different programing languages as well. In the future, I will contine to challenge myself with new cubes while also increasing my speed with previous solves so that I can be more efficinet at problem solving and computer programing.
 
@@ -51,6 +53,8 @@ The live coding project gave us an oppertunity to demonstrate a high level of un
 
 <iframe src="https://editor.p5js.org/AkashPrasad2/full/d5AjIxTqh"></iframe>
 
+[Link](https://editor.p5js.org/willmlee/full/7x49KCdfV)
+
 ## 9. Codecademy: Learn Game Development with Phaser.js
 Learning to use Phaser.js was a huge step in my coding journey as I leanrned how to do countless more things with programing, mostly involving game development. It became so much easier and efficent to make games with Phaser.js, and while it is important to know other languges too, phaser had a multitude of built in functions that made coding so much easier and practical. Being able to code games at a much faster rate was the biggest takeaway from this course, and in the future I will use Phaser.js whenever I have to make a webpage game.
 
@@ -59,6 +63,8 @@ View Certificate [here](https://i.imgur.com/RR0YMJF.png)
 
 ## 10. Game Jam
 Expanding on what we learned from the phaser.js course in Codecademy, we added to the bug invaders game to make it more unique and fun. I learned a lot of things about developing a web browser game from this project, and I learned how to use the fundamentals that we learned from codecademy to make something more interseting. My favorite part of the project was that it let you be creative with your coding, and this was very valuable because in the future, I am certain that there will be programs that will need to made with limited instructions provided.  
+
+[Link for modified game](https://github.com/willmlee/AYJ-Game-Jam)
 
 ### Markdown
 
